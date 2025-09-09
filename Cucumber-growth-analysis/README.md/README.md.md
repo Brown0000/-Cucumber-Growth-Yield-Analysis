@@ -1,4 +1,4 @@
-[README.md.md](https://github.com/user-attachments/files/22238992/README.md.md)
+[README.md](https://github.com/user-attachments/files/22238992/README.md.md)
 # 🥒 Growth and Yield Analysis of Cucumis sativus
 
 **Author**: Wilson Brown Yomi  
@@ -15,6 +15,8 @@ This repository contains the full analytical workflow and visualizations from a 
 ---
 
 ## 🗂️ Structure
+
+```
 cucumber-growth-analysis/
 ├── R/
 │   ├── analysis.R
@@ -43,5 +45,33 @@ cucumber-growth-analysis/
 │   └── Effect_of_IAA_MLE_AVE_on_Cucumber.pdf
 ├── README.md
 ├── LICENSE
-
 ├── .gitignore
+```
+
+
+---
+
+## 🧪 How to Run
+
+### R Scripts
+- `analysis.R`: Computes soil-growth and soil-yield correlations
+- `visualization.R`: Generates heatmaps, scatter plots, and bar charts
+
+### Jupyter Notebook
+- `growth_yield_visualization.ipynb`: Interactive notebook for visualizing cucumber growth and yield metrics using Python libraries
+
+---
+
+## 📚 Citation
+
+> Olojugba, M.R., Adeyinka, N.A., & Wilson, B.Y. (2025). *Efficacy of Indole-3-Acetic Acid, Moringa Leaf Extract and Aloe Vera Extract on the Growth and Yield of Cucumber (Cucumis sativus) on a Tropical Inceptisol, Southwest Nigeria*. Journal of Agriculture & Ecosystem Management, 3(1), 37–55. [https://doi.org/10.36265/jonages.2025.03.0105](https://doi.org/10.36265/jonages.2025.03.0105)
+
+---
+
+## 📬 Contact
+
+**Wilson Brown Yomi**  
+Department of Crops, Soil and Pest Management  
+Olusegun Agagu University of Science and Technology  
+Odo Ona, Oyo State, Nigeria  
+Email: [wilson__brown@outlook.com]
