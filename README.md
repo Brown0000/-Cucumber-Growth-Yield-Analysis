@@ -73,6 +73,5 @@ cucumber-growth-analysis/
 
 **Wilson Brown Yomi**  
 Department of Crops, Soil and Pest Management  
-Olusegun Agagu University of Science and Technology  
-Odo Ona, Oyo State, Nigeria  
+Olusegun Agagu University of Science and Technology   
 Email: [wilson__brown@outlook.com]
