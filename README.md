@@ -55,6 +55,8 @@ cucumber-growth-analysis/
 ## 🧪 How to Run
 
 ### R Scripts
+[analysis.R](R/analysis.R): Computes soil-growth and soil-yield correlations  
+[visualization.R](R/visualization.R): Generates heatmaps, scatter plots, and bar charts
 - `analysis.R`: Computes soil-growth and soil-yield correlations
 - `visualization.R`: Generates heatmaps, scatter plots, and bar charts
 
