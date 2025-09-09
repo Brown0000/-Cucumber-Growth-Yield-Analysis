@@ -55,10 +55,8 @@ cucumber-growth-analysis/
 ## 🧪 How to Run
 
 ### R Scripts
-[analysis.R](R/analysis.R): Computes soil-growth and soil-yield correlations  
-[visualization.R](R/visualization.R): Generates heatmaps, scatter plots, and bar charts
-- `analysis.R`: Computes soil-growth and soil-yield correlations
-- `visualization.R`: Generates heatmaps, scatter plots, and bar charts
+[analysis.R](cucumber-growth-analysis-R-analysis): Computes soil-growth and soil-yield correlations  
+[visualization.R](cucumber-growth-analysis-Visualization): Generates heatmaps, scatter plots, and bar charts
 
 ### Jupyter Notebook
 - `growth_yield_visualization.ipynb`: Interactive notebook for visualizing cucumber growth and yield metrics using Python libraries
